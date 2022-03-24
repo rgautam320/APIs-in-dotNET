@@ -1,0 +1,6 @@
+# Ignored Files and Folders 
+.vs 
+.vscode 
+obj 
+bin 
+Migrations
