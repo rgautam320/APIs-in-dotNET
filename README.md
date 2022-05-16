@@ -4,6 +4,7 @@
 
 1. Microsoft Authentication and Authorization
 2. Complete System starting from Login to Booking with Payment
+3. Azure Blob Storage for Storing Images
 
 ## API Reference
 
