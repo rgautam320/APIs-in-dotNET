@@ -8,7 +8,7 @@
 
 ## API Reference
 
-![image](https://user-images.githubusercontent.com/71542496/168673278-559262d2-359e-4631-9fc7-2666b4cea85e.png)
+![image](https://user-images.githubusercontent.com/71542496/168862365-06fc0625-916f-4987-a0ee-c93620dd1558.png)
 
 ### Thank You
 
